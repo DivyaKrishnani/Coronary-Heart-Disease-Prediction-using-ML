@@ -1,1 +1,1 @@
-# Coronary-Heart-Disease-Prediction-using-ML
+# Coronary Heart Disease Prediction using ML
